@@ -74,6 +74,6 @@ email: ""
 highlight_name: false
 ---
 
-Prahatha Venkatraman is a Postdoctoral Research Fellow at University of California, San Francisco. 
+- Prahatha Venkatraman is a Postdoctoral Research Fellow at University of California, San Francisco. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
