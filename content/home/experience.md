@@ -49,6 +49,19 @@ experience:
         * Developed and executed a new research direction for the lab and set up an in vitro cell-based model to study traumatic brain injury using hiPSCs
         * Applied new ideas based on strong scientific evidence to establish a strategy and analyze mitochondrial dysfunction and calcium dynamics in this system
         * Initiated and managed external collaborations with mechanical engineers, scientists and clinicians to develop a novel device that delivers compressive forces
+       
+  - title: Clinical Research Associate
+    company: Vijaya Hospitals
+    company_url: ''
+    company_logo: ''
+    location: Chennai, India
+    date_start: '2011-09-01'
+    date_end: '2012-07-30'
+    description: |2-
+        Responsibilities:
+        
+        * Developed and wrote clinical study outline to treat sleep apnea in stroke patients as a clinical intervention
+        * Presented project outline to hospital management and funding board
 
 
 design:
