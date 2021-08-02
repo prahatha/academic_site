@@ -20,15 +20,15 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: prahatha.venkatraman@ucsf.edu
+#email: prahatha.venkatraman@ucsf.edu
 #phone: 888 888 88 88
-address:
+#address:
 #  street: 450 Serra Mall
-  city: San Francisco
-  region: CA
+ # city: San Francisco
+ # region: CA
   #postcode: '94305'
-  country: United States
-  country_code: US
+ # country: United States
+  #country_code: US
 #coordinates:
  # latitude: '37.4275'
   #longitude: '-122.1697'
@@ -37,27 +37,27 @@ address:
 #  - 'Monday 10:00 to 13:00'
 #  - 'Wednesday 09:00 to 10:00'
 #appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: Twitter
-    link: 'https://twitter.com/dameofnone'
-  - icon: linkedin
-    icon_pack: fab
-    name: LinkedIn
-    link: 'https://www.linkedin.com/in/prahatha-venkatraman/'
-  - icon: researchgate
-    icon_pack: fab
-    name: ResearchGate
-    link: 'https://www.researchgate.net/profile/Prahatha-Venkatraman'
-  - icon: graduation-cap
-    icon_pack: fas
-    name: Google Scholar
-    link: 'https://scholar.google.com/citations?user=aIM_MdMAAAAJ&hl=en' 
-  - icon: instagram
-    icon_pack: fab
-    name: Instagram
-    link: 'https://www.instagram.com/dameofnone'
+#contact_links:
+#  - icon: twitter
+#    icon_pack: fab
+#    name: Twitter
+###    link: 'https://twitter.com/dameofnone'
+ # - icon: linkedin
+ #   icon_pack: fab
+ #   name: LinkedIn
+ #   link: 'https://www.linkedin.com/in/prahatha-venkatraman/'
+ # - icon: researchgate
+ #   icon_pack: fab
+ #   name: ResearchGate
+ #   link: 'https://www.researchgate.net/profile/Prahatha-Venkatraman'
+ ## - icon: graduation-cap
+  #  icon_pack: fas
+  #  name: Google Scholar
+  #  link: 'https://scholar.google.com/citations?user=aIM_MdMAAAAJ&hl=en' 
+  ##- icon: instagram
+   # icon_pack: fab
+   # name: Instagram
+   # link: 'https://www.instagram.com/dameofnone'#
 
 # Site header
 
