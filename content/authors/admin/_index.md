@@ -14,7 +14,7 @@ organizations:
   url: https://www.ucsf.edu/
 
 # Short bio (displayed in user profile at end of posts)
-Molecular neurobiologist with research experience in Alzheimer’s Disease, Retinal Degeneration and Mechanobiology.  
+bio: Molecular neurobiologist with research experience in Alzheimer’s Disease, Retinal Degeneration and Mechanobiology.  
 
 # Interests to show in About widget
 interests:
