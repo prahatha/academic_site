@@ -51,14 +51,14 @@ experience:
         * Initiating and managing external collaborations with mechanical engineers, scientists and clinicians to develop a novel device that delivers compressive forces
 
  - title: Graduate Student, Faculty for the Future Fellow
-    company: Purdue University
-    company_url: 'https://www.purdue.edu'
-    company_logo: ''
-    location: West Lafayette, Indiana
-    date_start: '2012-08-01'
-    date_end: '2018-07-31'
-    description: |2-  
-      Responsibilities include:
+   company: Purdue University
+   company_url: 'https://www.purdue.edu'
+   company_logo: ''
+   location: West Lafayette, Indiana
+   date_start: '2012-08-01'
+   date_end: '2018-07-31'
+   description: |2-  
+     Responsibilities include:
       
         * Establishing rods are functional in zebrafish larval visual behavior and defining scotopic parameters to drive only rod responses. Utilized this assay to manage, optimize and conduct high-throughput drug screening workflows in a pipeline project for retinal degeneration
         * Developing a new standard operating procedure for a visual behavior utilizing different zebrafish wildtype strains by applying statistical tools and effective collaboration with statisticians
@@ -67,27 +67,27 @@ experience:
         * Assisting in CRISPR design, microinjection and characterization of slc7a14 zebrafish mutants in collaboration with international scientists
 
 - title: Clinical Research Associate (Part-time)
-    company: Vijaya Hospitals
-    company_url: 'https://www.ucsf.edu'
-    company_logo: ''
-    location: Chennai, India
-    date_start: '2011-02-01'
-    date_end: '2012-07-30'
-    description: |2-  
-      Responsibilities include:
+  company: Vijaya Hospitals
+  company_url: 'https://www.ucsf.edu'
+  company_logo: ''
+  location: Chennai, India
+  date_start: '2011-02-01'
+  date_end: '2012-07-30'
+  description: |2-  
+    Responsibilities include:
       
         * Developing and writing clinical study outline to treat sleep apnea in stroke patients as a clinical intervention
         * Presenting project outline to hospital management and funding board
 
 - title: Masters Student
-    company: Queensland Brain Institute, The University of Queensland, Australia
-    company_url: 'https://www.uq.edu.au'
-    company_logo: ''
-    location: Brisbane, Australia
-    date_start: '2009-07-01'
-    date_end: '2010-12-30'
-    description: |2-
-      Responsibilities include:
+  company: Queensland Brain Institute, The University of Queensland, Australia
+  company_url: 'https://www.uq.edu.au'
+  company_logo: ''
+  location: Brisbane, Australia
+  date_start: '2009-07-01'
+  date_end: '2010-12-30'
+  description: |2-
+    Responsibilities include:
       
         * Extensively applying molecular biology techniques to clone various mutants of the pan-neurotrophin receptor p75NTR protein and identifying the motif involved in proteolytic processing
         * Examining the protein-protein interactions between Amyloid protein precursor and p75NTR in Alzheimer’s disease
